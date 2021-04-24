@@ -1,0 +1,22 @@
+
+/* general styles */
+a {
+    
+}
+
+/* class styles */
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftNav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rightNav {
+    display: flex;
+    justify-content: space-evenly;
+}
+

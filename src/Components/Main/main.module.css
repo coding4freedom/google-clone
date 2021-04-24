@@ -1,0 +1,14 @@
+:root {
+    --blue: #2f7ff7;
+    --red: #f04343;
+}
+ /* general styles */
+
+
+
+ /* class styles */
+.mainContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

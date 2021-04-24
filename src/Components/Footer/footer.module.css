@@ -1,0 +1,19 @@
+:root {
+    --gray: #70757a;
+    --light-gray: #c7cdd6;
+}
+/* general styles */
+a {
+    color: var(--gray);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* class name styles */
+.footer {
+    display: flex;
+    background-color: var(--light-gray);
+}
